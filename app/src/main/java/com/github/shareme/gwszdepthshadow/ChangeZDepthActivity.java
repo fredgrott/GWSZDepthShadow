@@ -6,8 +6,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.grottworkshop.gwszdepthshadow.ZDepth;
-import com.grottworkshop.gwszdepthshadow.ZDepthShadowLayout;
+import com.github.shareme.gwszdepthshadow.library.ZDepth;
+import com.github.shareme.gwszdepthshadow.library.ZDepthShadowLayout;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
@@ -15,6 +15,7 @@ import butterknife.OnClick;
 /**
  * Created by fgrott on 9/7/2015.
  */
+@SuppressWarnings("unused")
 public class ChangeZDepthActivity extends AppCompatActivity {
 
 
